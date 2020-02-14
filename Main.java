@@ -1,6 +1,3 @@
-//3365 Group Project #1
-//William Rittenhouse, Leslye Morales, Grace Crawford, Patrick Williams
-
 import java.util.Scanner;
 public class Main
 {
